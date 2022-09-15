@@ -1,0 +1,10 @@
+# ninja log v5
+1	22	0	/Users/andrew/Documents/dvat/build-dvat-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/cmake.verify_globs	835bb78df54855dc
+0	283	1663221379786359912	dvat_autogen/timestamp	a5b7e48e51165ef1
+0	283	1663221379786359912	dvat_autogen/mocs_compilation.cpp	a5b7e48e51165ef1
+0	283	1663221379786359912	/Users/andrew/Documents/dvat/build-dvat-Desktop_arm_darwin_generic_mach_o_64bit-Debug/dvat_autogen/timestamp	a5b7e48e51165ef1
+0	283	1663221379786359912	/Users/andrew/Documents/dvat/build-dvat-Desktop_arm_darwin_generic_mach_o_64bit-Debug/dvat_autogen/mocs_compilation.cpp	a5b7e48e51165ef1
+283	1057	1663221380556763285	CMakeFiles/dvat.dir/dvat_autogen/mocs_compilation.cpp.o	93e4104963eff851
+283	1063	1663221380563932989	CMakeFiles/dvat.dir/main.cpp.o	ba078128a8de7848
+284	1068	1663221380570609121	CMakeFiles/dvat.dir/homescreen.cpp.o	e7c358abb776b8e0
+1068	1270	1663221380778403236	dvat.app/Contents/MacOS/dvat	250eb0505b6957c2
